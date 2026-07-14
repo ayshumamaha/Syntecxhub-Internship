@@ -1,6 +1,6 @@
 # Web Scraper for Headlines
 
-## SyntecxHub Internship – Task 3
+## SyntecxHub Internship – Week 3
 
 ### Project Overview
 
